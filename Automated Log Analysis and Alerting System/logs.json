@@ -1,0 +1,6 @@
+[
+    {"timestamp": "2024-09-08T12:00:00Z", "log": "User login successful", "level": "INFO"},
+    {"timestamp": "2024-09-08T12:05:00Z", "log": "Database connection error", "level": "ERROR"},
+    {"timestamp": "2024-09-08T12:10:00Z", "log": "User logout successful", "level": "INFO"},
+    {"timestamp": "2024-09-08T12:15:00Z", "log": "Memory usage high", "level": "WARNING"}
+]

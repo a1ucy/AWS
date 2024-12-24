@@ -1,0 +1,5 @@
+[
+    {"invoice_id": "INV001", "date": "2024-09-01", "amount": 1500, "vendor": "Vendor A", "status": "Paid"},
+    {"invoice_id": "INV002", "date": "2024-09-05", "amount": 2500, "vendor": "Vendor B", "status": "Unpaid"},
+    {"invoice_id": "INV003", "date": "2024-09-07", "amount": 1000, "vendor": "Vendor C", "status": "Paid"}
+]
