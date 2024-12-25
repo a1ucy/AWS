@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Employee Knowledge Base</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="header">
+        <img src="logo.png" alt="Logo" class="logo">
+        <div class="center-content">
+            <h1>How can we help you?</h1>
+            <div class="search-bar">
+                <button><img src="glass.png" alt="Search"></button>
+                <input type="text" id="questionInput" placeholder="Ask a question about our company...">
+                <button id="searchButton" class="go-button">Go</button>
+            </div>
+        </div>
+    </div>
+    <div id="results"></div>
+    <div id="embedding" class="hidden">
+        <h2>Embedding</h2>
+        <pre id="embeddingJson"></pre>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
